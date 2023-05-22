@@ -1,4 +1,4 @@
-## Hello, my name is Ibrahem!
+## Hello, I'm Ibrahem!
 
 An about me is coming soon, so stay tuned. 
 
