@@ -1,6 +1,6 @@
 ## Hello, I'm Ibrahem! 👋🙂
 
-An about me is coming soon, so stay tuned.
+An about me is coming soon, so stay tuned!
 
 <!--
 **IbrahemElsawy/IbrahemElsawy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
