@@ -1,4 +1,5 @@
 <h2>Hello, I'm Ibrahem! 👋🙂</h2>
+<hr>
 <p>An about me is coming soon, so stay tuned!</p>
 
 <!--
