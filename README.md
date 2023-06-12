@@ -1,7 +1,6 @@
 <h3>Hello, I'm Ibrahem! 👋🙂</h3>
 <hr>
 <p>An about me is coming soon, so stay tuned!</p>
-
 <!--
 **IbrahemElsawy/IbrahemElsawy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
