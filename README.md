@@ -1,6 +1,18 @@
-<h3>Hello, I'm Ibrahem! 👋😄</h3>
+<h3>Hello, I'm Ibrahem! 👋🙂</h3>
 <hr>
-<p>An about me is coming soon, so stay tuned!</p>
+<div>
+  <h3>About Me 🚀</h3>
+  <ul>
+    <li>A third-year programming student who has developed a strong passion for developing and managing:</li>
+    <ul>
+      <li>Databases</li>
+      <li>Programs</li>
+      <li>Web Applications</li>
+    </ul>
+    <li>I have a primary focus in crafting engaging web applications, as they provide me with the ideal platform to showcase my creativity and innovative thinking.</li>
+    <li>My ultimate aspiration is to establish myself as a proficient Full-Stack Web Developer, equipped with the ability to design and develop comprehensive web applications.</li>
+  </ul>
+</div>
 <!--
 **IbrahemElsawy/IbrahemElsawy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
