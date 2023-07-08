@@ -1,7 +1,7 @@
 <div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=IbrahemElsawy" alt="visitor badge"/>
 </div>
-<h2>Hello, I'm Ibrahem! 👋🙂</h12
+<h2>Hi, I'm Ibrahem! 👋🙂</h12
 <div>
   <h3>About Me 🚀</h3>
   <ul>
