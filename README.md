@@ -33,7 +33,13 @@
   <br><br><br><br>
   <hr>
   <h3>Databases and Cloud Services ☁️</h3>
-  <p>Coming Soon!</p>
+  <a href="https://www.oracle.com/ca-en/database/" target="_blank"><img src="/logos/oracle-database-logo.png" align="left" alt="Oracle Database Logo" height="45 px" /></a>
+  <a href="https://www.postgresql.org" target="_blank"><img src="/logos/postgresql-logo.png" align="left" alt="PostgreSQL Logo" height="45 px" /></a>
+  <a href="https://www.mongodb.com" target="_blank"><img src="/logos/mongodb-logo.png" align="left" alt="MongoDB Logo" height="45 px" /></a>
+  <a href="https://azure.microsoft.com/en-ca/" target="_blank"><img src="/logos/microsoft-azure-logo.png" align="left" alt="Microsoft Azure Logo" height="45 px" /></a>
+  <br><br>
+  <hr>
+  <h3>Want to Contact me?</h3>
 </div>
 <!--
 **IbrahemElsawy/IbrahemElsawy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
