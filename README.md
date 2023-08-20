@@ -16,14 +16,6 @@
   </ul>
   <hr>
   <h3>Languages, Tools, and Frameworks 🛠️</h3>
-  <img src="/logos/C Logo.png" alt="C Logo"/>
-  <img src="/logos/C++ Logo.png" alt="C++ Logo"/>
-  <img src="/logos/HTML5 Logo.png" alt="HTML5 Logo"/>
-  <img src="/logos/CSS3 Logo.png" alt="CSS3 Logo"/>
-  <img src="/logos/JavaScript Logo.png" alt="JavaScript Logo"/>
-  <img src="/logos/NodeJS Logo.png" alt="NodeJS Logo"/>
-
-
 </div>
 <!--
 **IbrahemElsawy/IbrahemElsawy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
