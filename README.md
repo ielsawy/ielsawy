@@ -16,7 +16,14 @@
   </ul>
   <hr>
   <h3>Languages, Tools, and Frameworks 🛠️</h3>
-</div>
+  <a href="https://www.learn-c.org" target="_blank"><img src="/logos/c-logo.png" align="left" alt="C Logo" height="50 px" /></a>
+  <a href="https://cplusplus.com" target="_blank"><img src="/logos/c++logo.png" align="left" alt="C++ Logo" height="50 px" /></a>
+  <a href="https://html.com" target="_blank"><img src="/logos/html5-logo.png" align="left" alt="HTML5 Logo" height="50 px" /></a>
+  <a href="https://www.css3.com" target="_blank"><img src="/logos/css3-logo.png" align="left" alt="CSS3 Logo" height="50 px" /></a>
+  <a href="https://www.javascript.com" target="_blank"><img src="/logos/javascript-logo.png" align="left" alt="JS Logo" height="50 px" /></a>
+  <a href="https://www.learn-c.org" target="_blank"><img src="/logos/nodejs-logo.png" align="left" alt="NodeJS Logo" height="50 px" /></a>
+<!--   <a href="https://www.learn-c.org" target="_blank"><img src="/logos/c-logo.png" align="left" alt="C Logo" height="50 px" /></a>
+</div> -->
 <!--
 **IbrahemElsawy/IbrahemElsawy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
