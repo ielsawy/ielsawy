@@ -16,7 +16,6 @@
   </ul>
   <hr>
   <h3>Languages, Tools, and Frameworks 🛠️</h3>
-  <p>Coming soon!</p>
 </div>
 <!--
 **IbrahemElsawy/IbrahemElsawy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
