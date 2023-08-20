@@ -1,7 +1,7 @@
 <div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=IbrahemElsawy" alt="visitor badge"/>
 </div>
-<h2>Hello, I'm Ibrahem! 👋🙂</h12
+<h2>Hello, I'm Ibrahem! 👋🙂</h1>
 <div>
   <h3>About Me 🚀</h3>
   <ul>
@@ -16,6 +16,14 @@
   </ul>
   <hr>
   <h3>Languages, Tools, and Frameworks 🛠️</h3>
+  <img src="/../logos/C Logo.png" alt="C Logo"/>
+  <img src="/../logos/C++ Logo.png" alt="C Logo"/>
+  <img src="/../logos/HTML5 Logo.png" alt="C Logo"/>
+  <img src="/../logos/CSS3 Logo.png" alt="C Logo"/>
+  <img src="/../logos/JavaScript Logo.png" alt="C Logo"/>
+  <img src="/../logos/NodeJS Logo.png" alt="C Logo"/>
+
+
 </div>
 <!--
 **IbrahemElsawy/IbrahemElsawy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
