@@ -39,7 +39,7 @@
   <a href="https://azure.microsoft.com/en-ca/" target="_blank"><img src="/logos/microsoft-azure-logo.png" align="left" alt="Microsoft Azure Logo" height="45 px" /></a>
   <br><br>
   <hr>
-  <h3>Want to Contact me?</h3>
+  <h3>Contacts📞</h3>
 </div>
 <!--
 **IbrahemElsawy/IbrahemElsawy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
