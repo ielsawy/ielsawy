@@ -39,7 +39,7 @@
   <a href="https://azure.microsoft.com/en-ca/" target="_blank"><img src="/logos/microsoft-azure-logo.png" align="left" alt="Microsoft Azure Logo" height="45 px" /></a>
   <br><br>
   <hr>
-  <h3>Contacts📞</h3>
+  <h3>Contacts 📞</h3>
   <a href="mailto:ibrahem_e@hotmail.com" target="_blank"><img src="/logos/email-logo.png" align="left" alt="Email Logo" height="55 px" /></a>
   <a href="https://www.linkedin.com/in/ielsawy/" target="_blank"><img src="/logos/linkedin-logo.png" align="left" alt="LinkedIn Logo" height="55 px" /></a>
 </div>
