@@ -7,8 +7,8 @@
   <ul>
     <li>I'm a programming student who has developed a strong passion for developing and managing:</li>
     <ul>
-      <li>Databases</li>
       <li>Application Software</li>
+      <li>Databases</li>
       <li>Web Applications</li>
     </ul>
     <li>I have a primary focus in crafting engaging web applications, as they provide me with the ideal platform to showcase my creativity and innovative thinking.</li>
