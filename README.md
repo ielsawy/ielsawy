@@ -53,8 +53,11 @@
   <h3>Databases and Cloud Services ☁️</h3>
   
   ![Oracle](https://img.shields.io/badge/Oracle-1974D2.svg?style=for-the-badge)
+  &nbsp;
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1974D2.svg?style=for-the-badge)
+  &nbsp;
   ![MongoDB](https://img.shields.io/badge/MongoDB-1974D2.svg?style=for-the-badge&logo=mongodb&logoColor=%2347A248)
+  &nbsp;
   ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-1974D2.svg?style=for-the-badge)
   <!-- 
     TODO:
