@@ -32,9 +32,9 @@
   ![ExpressJS](https://img.shields.io/badge/Express.js-1974D2.svg?style=for-the-badge&logo=express&logoColor=%23000000)
   &nbsp;
   ![Git](https://img.shields.io/badge/Git-1974D2.svg?style=for-the-badge&logo=git&logoColor=%23F05032)
-  &nbsp;
-  ![HandlebarsJS](https://img.shields.io/badge/Handlebars.js-1974D2.svg?style=for-the-badge&logo=handlebarsdotjs&logoColor=%23000000)
 
+  ![HandlebarsJS](https://img.shields.io/badge/Handlebars.js-1974D2.svg?style=for-the-badge&logo=handlebarsdotjs&logoColor=%23000000)
+  &nbsp;
   ![Java](https://img.shields.io/badge/Java-1974D2.svg?style=for-the-badge&logo=java)
   &nbsp;
   ![React](https://img.shields.io/badge/React-1974D2.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
