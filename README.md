@@ -12,7 +12,7 @@
       <li>Web Applications</li>
     </ul>
     <li>I have a primary focus in crafting engaging web applications, as they provide me with the ideal platform to showcase my creativity and innovative thinking.</li>
-    <li>My ultimate aspiration is to establish myself as a proficient Full-Stack Web Developer, equipped with the ability to design and develop comprehensive web applications.</li>
+    <li>My ultimate aspiration is to establish myself as a proficient Full-Stack Developer, equipped with the ability to design and develop comprehensive web applications.</li>
   </ul>
   <hr>
   <h3>Languages, Tools, and Frameworks 🛠️</h3>
