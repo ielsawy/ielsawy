@@ -8,7 +8,7 @@
     <li>I'm a programming student who has developed a strong passion for developing and managing:</li>
     <ul>
       <li>Databases</li>
-      <li>Programs</li>
+      <li>Application Software</li>
       <li>Web Applications</li>
     </ul>
     <li>I have a primary focus in crafting engaging web applications, as they provide me with the ideal platform to showcase my creativity and innovative thinking.</li>
@@ -16,44 +16,56 @@
   </ul>
   <hr>
   <h3>Languages, Tools, and Frameworks 🛠️</h3>
-  <a href="https://www.learn-c.org" target="_blank"><img src="/logos/c-logo.png" align="left" alt="C Logo" height="45 px" /></a>
-  <a href="https://cplusplus.com" target="_blank"><img src="/logos/c++logo.png" align="left" alt="C++ Logo" height="45 px" /></a>
-  <a href="https://html.com" target="_blank"><img src="/logos/html5-logo.png" align="left" alt="HTML5 Logo" height="45 px" /></a>
-  <a href="https://www.css3.com" target="_blank"><img src="/logos/css3-logo.png" align="left" alt="CSS3 Logo" height="45 px" /></a>
-  <a href="https://www.javascript.com" target="_blank"><img src="/logos/javascript-logo.png" align="left" alt="JS Logo" height="45 px" /></a>
-  <a href="https://nodejs.org/en" target="_blank"><img src="/logos/nodejs-logo.png" align="left" alt="NodeJS Logo" height="45 px" /></a>
-  <a href="https://expressjs.com" target="_blank"><img src="/logos/expressjs-logo.png" align="left" alt="ExpressJS Logo" height="45 px" /></a>
-  <a href="https://git-scm.com" target="_blank"><img src="/logos/git-logo.png" align="left" alt="Git Logo" height="45 px" /></a>
-  <a href="https://handlebarsjs.com" target="_blank"><img src="/logos/handlebarsjs-logo.png" align="left" alt="HandlebarsJS Logo" height="45 px" /></a>
-  <a href="https://www.java.com/en/" target="_blank"><img src="/logos/java-logo.png" align="left" alt="Java Logo" height="45 px" /></a>
-  <a href="https://react.dev" target="_blank"><img src="/logos/react-logo.png" align="left" alt="React Logo" height="45 px" /></a>
-  <a href="https://nextjs.org" target="_blank"><img src="/logos/nextjs-logo.png" align="left" alt="NextJS Logo" height="45 px" /></a>
-  <a href="https://www.docker.com" target="_blank"><img src="/logos/docker-logo.png" align="left" alt="Docker Logo" height="45 px" /></a>
-  <a href="https://www.typescriptlang.org" target="_blank"><img src="/logos/typescript-logo.png" align="left" alt="TypeScript Logo" height="45 px" /></a>
-  <br><br><br><br>
+  
+  ![C](https://img.shields.io/badge/C-1974D2.svg?style=for-the-badge&logo=c&logoColor=%23FFFFFF)
+  &nbsp;
+  ![C++](https://img.shields.io/badge/C%2B%2B-1974D2.svg?style=for-the-badge&logo=cplusplus&logoColor=%23FFFFFF)
+  &nbsp;
+  ![HTML5](https://img.shields.io/badge/HTML5-1974D2.svg?style=for-the-badge&logo=html5&logoColor=%23E34F26)
+  &nbsp;
+  ![CSS3](https://img.shields.io/badge/CSS3-1974D2.svg?style=for-the-badge&logo=css3&logoColor=%231572B6)
+  &nbsp;
+  ![JavaScript](https://img.shields.io/badge/JavaScript-1974D2.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  &nbsp;
+  ![NodeJS](https://img.shields.io/badge/Node.js-1974D2.svg?style=for-the-badge&logo=nodedotjs&logoColor=%23339933)
+  &nbsp;
+  ![ExpressJS](https://img.shields.io/badge/Express.js-1974D2.svg?style=for-the-badge&logo=express&logoColor=%23000000)
+  &nbsp;
+  ![Git](https://img.shields.io/badge/Git-1974D2.svg?style=for-the-badge&logo=git&logoColor=%23F05032)
+  &nbsp;
+  ![HandlebarsJS](https://img.shields.io/badge/Handlebars.js-1974D2.svg?style=for-the-badge&logo=handlebarsdotjs&logoColor=%23000000)
+
+  ![Java](https://img.shields.io/badge/Java-1974D2.svg?style=for-the-badge&logo=java)
+  &nbsp;
+  ![React](https://img.shields.io/badge/React-1974D2.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  &nbsp;
+  ![NextJS](https://img.shields.io/badge/Next.js-1974D2.svg?style=for-the-badge&logo=nextdotjs&logoColor=%23000000)
+  &nbsp;
+  ![Docker](https://img.shields.io/badge/Docker-1974D2.svg?style=for-the-badge&logo=docker&logoColor=%232496ED)
+  &nbsp;
+  ![TypeScript](https://img.shields.io/badge/TypeScript-1974D2.svg?style=for-the-badge&logo=typescript&logoColor=%233178C6)
+  <!-- 
+    TODO:
+    Add this at the end of the semester:
+    ![Swift](https://img.shields.io/badge/Swift-1974D2.svg?style=for-the-badge&logo=swift&logoColor=%23F05138)
+  -->
   <hr>
   <h3>Databases and Cloud Services ☁️</h3>
-  <a href="https://www.oracle.com/ca-en/database/" target="_blank"><img src="/logos/oracle-database-logo.png" align="left" alt="Oracle Database Logo" height="45 px" /></a>
-  <a href="https://www.postgresql.org" target="_blank"><img src="/logos/postgresql-logo.png" align="left" alt="PostgreSQL Logo" height="45 px" /></a>
-  <a href="https://www.mongodb.com" target="_blank"><img src="/logos/mongodb-logo.png" align="left" alt="MongoDB Logo" height="45 px" /></a>
-  <a href="https://azure.microsoft.com/en-ca/" target="_blank"><img src="/logos/microsoft-azure-logo.png" align="left" alt="Microsoft Azure Logo" height="45 px" /></a>
-  <br><br>
+  
+  ![Oracle](https://img.shields.io/badge/Oracle-1974D2.svg?style=for-the-badge)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1974D2.svg?style=for-the-badge)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-1974D2.svg?style=for-the-badge&logo=mongodb&logoColor=%2347A248)
+  ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-1974D2.svg?style=for-the-badge)
+  <!-- 
+    TODO:
+    Add this at the end of the semester:
+    ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-1974D2.svg?style=for-the-badge&logo=amazonaws&logoColor=%23232F3E)
+  -->
   <hr>
   <h3>Contacts 📞</h3>
-  <a href="mailto:ibrahem_e@hotmail.com" target="_blank"><img src="/logos/email-logo.png" align="left" alt="Email Logo" height="55 px" /></a>
-  <a href="https://www.linkedin.com/in/ielsawy/" target="_blank"><img src="/logos/linkedin-logo.png" align="left" alt="LinkedIn Logo" height="55 px" /></a>
+
+  [![Email](https://img.shields.io/badge/Outlook-1974D2.svg?style=for-the-badge)](mailto:ibrahem_e@hotmail.com)
+  &nbsp;
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-1974D2.svg?style=for-the-badge&logo=linkedin&logoColor=%230A66C2)](https://www.linkedin.com/in/ielsawy/)
+  &nbsp;
 </div>
-<!--
-**IbrahemElsawy/IbrahemElsawy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
--  😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
