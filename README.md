@@ -7,7 +7,7 @@
   <ul>
     <li>I'm a programming student who has developed a strong passion for developing and managing:</li>
     <ul>
-      <li>Application Software</li>
+      <li>Software</li>
       <li>Databases</li>
       <li>Web Applications</li>
     </ul>
