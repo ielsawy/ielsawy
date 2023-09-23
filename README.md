@@ -44,11 +44,9 @@
   [![Docker](https://img.shields.io/badge/Docker-1974D2.svg?style=for-the-badge&logo=docker&logoColor=%232496ED)](https://www.docker.com)
   &nbsp;
   [![TypeScript](https://img.shields.io/badge/TypeScript-1974D2.svg?style=for-the-badge&logo=typescript&logoColor=%233178C6)](https://www.typescriptlang.org)
-  <!-- 
-    TODO:
-    Add this at the end of the semester:
-    [![Swift](https://img.shields.io/badge/Swift-1974D2.svg?style=for-the-badge&logo=swift&logoColor=%23F05138)](https://www.swift.org)
-  -->
+  &nbsp;
+  [![Swift](https://img.shields.io/badge/Swift-1974D2.svg?style=for-the-badge&logo=swift&logoColor=%23F05138)](https://www.swift.org)
+  
   <hr>
   <h3>Databases and Cloud Services ☁️</h3>
   
