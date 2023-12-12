@@ -57,11 +57,7 @@
   [![MongoDB](https://img.shields.io/badge/MongoDB-1974D2.svg?style=for-the-badge&logo=mongodb&logoColor=%2347A248)](https://www.mongodb.com)
   &nbsp;
   [![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-1974D2.svg?style=for-the-badge)](https://azure.microsoft.com/en-ca)
-  <!-- 
-    TODO:
-    Add this at the end of the semester:
-    [![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-1974D2.svg?style=for-the-badge&logo=amazonaws&logoColor=%23232F3E)](https://aws.amazon.com/?nc2=h_lg)
-  -->
+  [![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-1974D2.svg?style=for-the-badge&logo=amazonaws&logoColor=%23232F3E)](https://aws.amazon.com/?nc2=h_lg)
   <hr>
   <h3>Contacts 📞</h3>
 
