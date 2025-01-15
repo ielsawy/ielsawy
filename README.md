@@ -5,7 +5,7 @@
 <div>
   <h3>About Me 🚀</h3>
   <ul>
-    <li>I'm a programming student who has developed a strong passion for developing and managing:</li>
+    <li>I'm a programming alumni who has developed a strong passion for developing and managing:</li>
     <ul>
       <li>Databases</li>
       <li>Software</li>
